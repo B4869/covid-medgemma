@@ -13,7 +13,7 @@ const txt = `
 https://howto.run/
 
 **Git Repository (ดาวน์โหลดโปรเจกต์นี้):**
-https://github.com/medgemma/covid-ai
+https://github.com/B4869/covid-medgemma.git
 `
 
 export function getSimpleBotReply(userText: string) {
