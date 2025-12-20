@@ -35,12 +35,11 @@ export default function Header() {
             >
               My Profile
             </a>
-            <a
-              href="#"
-              className="rounded-lg px-3 py-2 text-sm font-medium text-blue-600 hover:bg-blue-100 transition-colors"
+            <p
+              className="rounded-lg px-3 py-2 text-sm font-medium text-blue-600 cursor-default"
             >
               Covid MedGemma
-            </a>
+            </p>
             <a
               href="#"
               className="rounded-lg px-3 py-2 text-sm font-medium text-gray-600 hover:bg-gray-200 hover:text-slate-900 transition-colors"
