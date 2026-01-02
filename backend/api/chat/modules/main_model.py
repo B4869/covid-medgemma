@@ -73,10 +73,10 @@ def getResponse(query):
 
     elapsed = time.time() - start
     
-    print(len(messageHistory), "\n")
-    print("--------------")
-    print(context)
-    print("--------------")
+    # print(len(messageHistory), "\n")
+    # print("--------------")
+    # print(context)
+    # print("--------------")
     
     print(f"Used time {elapsed:.2f} seconds")
 
