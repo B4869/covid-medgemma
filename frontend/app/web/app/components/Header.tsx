@@ -68,19 +68,18 @@ export default function Header() {
       >
         <nav className="flex flex-col space-y-1 px-4 py-3">
           <a
-            href="#"
+            href="https://my-profile-one-rust.vercel.app/"
             className="rounded-lg px-3 py-2 text-base font-medium text-gray-600 hover:bg-gray-100 hover:text-slate-900 border-b border-gray-300"
           >
             My Profile
           </a>
-          <a
-            href="#"
-            className="rounded-lg px-3 py-2 text-base font-medium text-blue-600 hover:bg-blue-50 border-b border-gray-300"
+          <p
+            className="rounded-lg px-3 py-2 text-base font-medium text-blue-600 cursor-default"
           >
             Covid MedGemma
-          </a>
+          </p>
           <a
-            href="#"
+            href="https://hiv-risk-estimate.vercel.app/"
             className="rounded-lg px-3 py-2 text-base font-medium text-gray-600 hover:bg-gray-100 hover:text-slate-900"
           >
             HIV Risk Estimate
