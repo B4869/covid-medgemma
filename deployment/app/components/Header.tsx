@@ -30,7 +30,7 @@ export default function Header() {
           {/* Desktop Navigation */}
           <nav className="hidden items-center gap-1 sm:flex">
             <a
-              href="#"
+              href="https://my-profile-one-rust.vercel.app/"
               className="rounded-lg px-3 py-2 text-sm font-medium text-gray-600 hover:bg-gray-200 hover:text-slate-900 transition-colors"
             >
               My Profile
@@ -41,7 +41,7 @@ export default function Header() {
               Covid MedGemma
             </p>
             <a
-              href="#"
+              href="https://hiv-risk-estimate.vercel.app/"
               className="rounded-lg px-3 py-2 text-sm font-medium text-gray-600 hover:bg-gray-200 hover:text-slate-900 transition-colors"
             >
               HIV Risk Estimate
