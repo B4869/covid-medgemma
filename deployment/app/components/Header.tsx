@@ -74,7 +74,7 @@ export default function Header() {
             My Profile
           </a>
           <p
-            className="rounded-lg px-3 py-2 text-base font-medium text-blue-600 cursor-default"
+            className="rounded-lg px-3 py-2 text-base font-medium text-blue-600 cursor-default border-b border-gray-300"
           >
             Covid MedGemma
           </p>
